@@ -1,0 +1,15 @@
+E:\newFolderLesson8\newTask1\bin\Debug\net6.0\newTask1.exe
+E:\newFolderLesson8\newTask1\bin\Debug\net6.0\newTask1.deps.json
+E:\newFolderLesson8\newTask1\bin\Debug\net6.0\newTask1.runtimeconfig.json
+E:\newFolderLesson8\newTask1\bin\Debug\net6.0\newTask1.dll
+E:\newFolderLesson8\newTask1\bin\Debug\net6.0\newTask1.pdb
+E:\newFolderLesson8\newTask1\obj\Debug\net6.0\newTask1.csproj.AssemblyReference.cache
+E:\newFolderLesson8\newTask1\obj\Debug\net6.0\newTask1.GeneratedMSBuildEditorConfig.editorconfig
+E:\newFolderLesson8\newTask1\obj\Debug\net6.0\newTask1.AssemblyInfoInputs.cache
+E:\newFolderLesson8\newTask1\obj\Debug\net6.0\newTask1.AssemblyInfo.cs
+E:\newFolderLesson8\newTask1\obj\Debug\net6.0\newTask1.csproj.CoreCompileInputs.cache
+E:\newFolderLesson8\newTask1\obj\Debug\net6.0\newTask1.dll
+E:\newFolderLesson8\newTask1\obj\Debug\net6.0\refint\newTask1.dll
+E:\newFolderLesson8\newTask1\obj\Debug\net6.0\newTask1.pdb
+E:\newFolderLesson8\newTask1\obj\Debug\net6.0\newTask1.genruntimeconfig.cache
+E:\newFolderLesson8\newTask1\obj\Debug\net6.0\ref\newTask1.dll
